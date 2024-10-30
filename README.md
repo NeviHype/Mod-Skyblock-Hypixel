@@ -12,6 +12,8 @@ OdinClient is a client specifically created for Hypixel Skyblock that offers adv
   ● Stat tracker, which keeps track of progress by showing real-time experience and coin gains.
   
 OdinClient is very useful for players who want to progress in skills without wasting too much time on repetitive tasks and who want to monitor their performance and earnings in detail. Thanks to its automation features, it allows players to optimize their gameplay time and focus on the more fun and challenging aspects of the game.
+
+[Download OdinClient](https://github.com/NeviHype/Mod-Skyblock-Hypixel/releases/download/OdinClient-Mod/OdinClient-1.2.5.beta11.jar)
 <img src="img/odinclient.png" width="100%" height="100%" />
 
 ### Dungeon Rooms Mod
